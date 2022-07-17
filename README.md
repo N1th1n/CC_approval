@@ -1,1 +1,1 @@
-# CC_approval
+Predicting Credit Card approval using Logistic Regression
